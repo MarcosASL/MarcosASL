@@ -5,6 +5,7 @@
 - 👨🏼‍💻 Aluno do curso Origamid
 - 📫 Meu Linkedin: [https://www.linkedin.com](https://www.linkedin.com/in/marcosasl/)
 - 📫 Meu E-Mail: Mark.asl@hotmail.com
+ 
 
 <div align="center">
   <a href="https://github.com/marcosasl">
@@ -19,11 +20,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Minha img" height="150" style="border-radius:50px;" https://giphy.com/gifs/movie-austin-powers-international-man-of-mystery-l1KVb2dUcmuGG4tby
+<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+      src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+    
 </div>
-  
-   ##
-  
+   
+  #
   <div>
  	
  <a href="https://discord.gg/BDSuX2cm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -33,3 +35,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+
