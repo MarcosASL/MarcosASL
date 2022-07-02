@@ -1,10 +1,11 @@
 ### Olá, Eu sou o Marcos👋
 
 - 📚 Cursando Sistemas de Informação
-- 📚 Atualmente estou Estudando Html, Css, JS e UI/UX.
+- 📚 Atualmente Estudando Css, JS, UI/UX, React e WooCommerce Como CMS
 - 👨🏼‍💻 Aluno do curso Origamid
 - 📫 Meu Linkedin: [https://www.linkedin.com](https://www.linkedin.com/in/marcosasl/)
 - 📫 Meu E-Mail: Mark.asl@hotmail.com
+- 📫 Meu whatsapp: https://chat.whatsapp.com/HlRAfmkhuB6904JQT4piPc
  
 
 <div align="center">
