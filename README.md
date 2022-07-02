@@ -1,11 +1,9 @@
 ### Olá, Eu sou o Marcos👋
 
-- 📚 Cursando Sistemas de Informação
-- 📚 Atualmente Estudando Css, JS, UI/UX, React e WooCommerce Como CMS
-- 👨🏼‍💻 Aluno da Origamid
-- 📫 Meu Linkedin: [https://www.linkedin.com](https://www.linkedin.com/in/marcosasl/)
-- 📫 Meu E-Mail: Mark.asl@hotmail.com
-- 📫 Meu whatsapp: https://chat.whatsapp.com/HlRAfmkhuB6904JQT4piPc
+- 👨‍🎓 Cursando Sistemas de Informação 7°
+- 👨‍💻 Atualmente Estudando Css, JS, UI/UX, React e WooCommerce Como CMS
+- 📚 Aluno da Origamid
+- 📲 Entre em contato comigo pelos links abaixo  👇
  <div>
  	
  <a href="https://discord.gg/BDSuX2cm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
